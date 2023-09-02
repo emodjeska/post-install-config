@@ -40,7 +40,18 @@ Roles are the permissions granted to Agents per department that they have access
 
 ![image](https://github.com/emodjeska/post-install-config/assets/143763072/a66e5cc1-6ef7-4111-9316-c258da58c921)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+For example, select add new role. Then create a "Supreme Admin Role" This role will be the overall Administrator for our example. So go to Permissions and enable "supreme Admin" to have every possible permission available.
+
+Configuring Departments.
+
+Since tickets are routed through Departments in the help desk, there are lots of settings that can be set for each department.
+
+1. Admin Panel -> Agents -> Departments
+2. System Administators
+3. Leave the remaining fields set as default and simply review what selections are available to choose from
+
+![image](https://github.com/emodjeska/post-install-config/assets/143763072/e28fba54-572d-4de5-b5f7-0aeec53ecfc9)
+
 </p>
 <br />
 

@@ -42,7 +42,7 @@ For example, select add new role. Then create a "Supreme Admin Role" This role w
 
 Tickets are routed though departments in the help desk in osTicket, so they have many setting that you can set for each department. These allow you or your comapny to create a system that works for you.
 
-1. In the Admin panel -> Agents-> Departments
+1. In the Admin Panel -> Agents-> Departments
 2. System Administators
 3. Leave the remaining fields set as default and simply look around and see what settings there are to chose from.
 
@@ -52,7 +52,7 @@ Tickets are routed though departments in the help desk in osTicket, so they have
 
 -Team allow you to pull Agents and group them into projects and organize them to handle a specific issue or user via a help desk topic or ticket filter.
 
-1. Admin panel -> Agents -> Teams
+1. Admin Panel -> Agents -> Teams
 2. Level l support
 3. Level 2 support
 
@@ -62,5 +62,20 @@ Tickets are routed though departments in the help desk in osTicket, so they have
 
    ![image](https://github.com/emodjeska/post-install-config/assets/143763072/519112d6-cb62-4ca6-b1a4-2cf1b0a04991)
 
+Agents are allowed onto the sytem with the intent to resolve and respond to tickets. When you add an agent to the help desk, you will need to assign a primary department and give a primary role for the tickets and tasks routed to that department.
 
+Admin Panel -> Agents -> Add New
+1. Jane 
+2. John
 
+![image](https://github.com/emodjeska/post-install-config/assets/143763072/bfeb48fc-be2b-4a20-b46e-e2d05ec246b0)
+
+![image](https://github.com/emodjeska/post-install-config/assets/143763072/e9fcd85c-6ef9-4bd2-aa67-4148012640b7)
+
+Users (customers) are able to create an account to log in and  create tickets, or check on the status of their ticket.
+
+Agent Panel -> Users -> Add New
+1. karen
+2. Ken
+
+   

@@ -50,3 +50,17 @@ Tickets are routed though departments in the help desk in osTicket, so they have
 
    ![image](https://github.com/emodjeska/post-install-config/assets/143763072/d37b55b0-5eec-4eef-a1e9-dcb124383413)
 
+-Team allow you to pull Agents and group them into projects and organize them to handle a specific issue or user via a help desk topic or ticket filter.
+
+1. Admin panel -> Agents -> Teams
+2. Level l support
+3. Level 2 support
+
+   ![image](https://github.com/emodjeska/post-install-config/assets/143763072/4052e53e-170b-4bdc-8aa7-50deb3eb18bf)
+
+   ![image](https://github.com/emodjeska/post-install-config/assets/143763072/ecbcb208-7dde-4fbc-9e76-1379eb9acb6b)
+
+   ![image](https://github.com/emodjeska/post-install-config/assets/143763072/519112d6-cb62-4ca6-b1a4-2cf1b0a04991)
+
+
+

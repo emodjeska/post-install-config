@@ -29,7 +29,7 @@ Go ahead and login into the osTicket Admin Panel.  When you pull up the Panel yo
 
 -Now, we will Configure Roles.
 
-Roles are the permissions granted to Agents per department that they have access to. You are able to check/ uncheck agents gevin that role in association with a department. an unlimited number of roles can be created and assigned to agents with access to various departments. 
+Roles are the permissions granted to Agents per department that they have access to. You are able to check/ uncheck agents gevin that role in association with a department. An unlimited number of roles can be created and assigned to agents with access to various departments. 
 
 1. Admin Panel -> Agents -> Roles
 2. Supreme Admin

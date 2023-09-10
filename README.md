@@ -78,4 +78,33 @@ Agent Panel -> Users -> Add New
 1. karen
 2. Ken
 
+![image](https://github.com/emodjeska/post-install-config/assets/143763072/e6841493-1519-4b57-986e-5b69766db490)
    
+![image](https://github.com/emodjeska/post-install-config/assets/143763072/53f292b3-05f0-4a69-ae98-37d83916e922)
+
+SLA Plans or Service level Agreements, provide a length of time in which the help desk Administator expects tickets to be closed. You are able to create any SLA plans you would like.
+
+Admin Panel -> Manage -> SLA
+
+1. Sev-A (1 hour, 24/7)
+2. Sev- B (4 hours, 24/7)
+3. Sev-C (8 hours, business hours)
+
+![image](https://github.com/emodjeska/post-install-config/assets/143763072/305d58e9-ae5a-4cb6-9053-5ca1d8e0d9a5)
+
+![image](https://github.com/emodjeska/post-install-config/assets/143763072/0012b8ee-946e-41aa-9157-6e6f6308d8cb)
+
+![image](https://github.com/emodjeska/post-install-config/assets/143763072/ccaa110f-d7cd-403d-93e8-4e477b6f7910)
+
+Lastly, We will be Configuring Help Topics. Help Topics serve to streamline the expirience for the end-user to make sure the ticket has the proper assignment and prompt response to ticket. Create as many Help Topics as needed.
+
+Admin Panel -> Manage -> Help Topics
+
+1. Bussiness Critical Outage
+2. Personal Computer Issues
+3. Equipment Request
+4. Password Reset
+
+![image](https://github.com/emodjeska/post-install-config/assets/143763072/87feb712-c259-4c81-9335-c330e6752f08)
+
+![image](https://github.com/emodjeska/post-install-config/assets/143763072/7f0268da-8774-4228-b5f5-8cf684d07cf7)

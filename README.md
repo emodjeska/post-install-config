@@ -34,7 +34,8 @@ Roles are the permissions granted to Agents per department that they have access
 1. Admin Panel -> Agents -> Roles
 2. Supreme Admin
 
-![image](https://github.com/emodjeska/post-install-config/assets/143763072/a66e5cc1-6ef7-4111-9316-c258da58c921)
+![image](https://github.com/emodjeska/post-install-config/assets/143763072/fac4319b-c177-4338-af1c-8f94a00c0730)
+
 
 For example, select add new role. Then create a "Supreme Admin Role" This role will be the overall Administrator for our example. So go to Permissions and enable "supreme Admin" to have every possible permission available.
 
@@ -46,9 +47,10 @@ Tickets are routed though departments in the help desk in osTicket, so they have
 2. System Administators
 3. Leave the remaining fields set as default and simply look around and see what settings there are to chose from.
 
-   ![image](https://github.com/emodjeska/post-install-config/assets/143763072/10cb6097-5fa7-413b-a7fd-c5f9e98a2776)
+  ![image](https://github.com/emodjeska/post-install-config/assets/143763072/3c99382a-3a93-4cfb-a0f4-2703761ea8cf)
 
-   ![image](https://github.com/emodjeska/post-install-config/assets/143763072/d37b55b0-5eec-4eef-a1e9-dcb124383413)
+![image](https://github.com/emodjeska/post-install-config/assets/143763072/47e8117d-e85d-4bf7-98c1-82c58e6fa15b)
+
 
 -Team allow you to pull Agents and group them into projects and organize them to handle a specific issue or user via a help desk topic or ticket filter.
 
@@ -56,11 +58,10 @@ Tickets are routed though departments in the help desk in osTicket, so they have
 2. Level l support
 3. Level 2 support
 
-   ![image](https://github.com/emodjeska/post-install-config/assets/143763072/4052e53e-170b-4bdc-8aa7-50deb3eb18bf)
+![image](https://github.com/emodjeska/post-install-config/assets/143763072/7166f914-97e4-4088-bcde-f40f6cc82ad9)
 
-   ![image](https://github.com/emodjeska/post-install-config/assets/143763072/ecbcb208-7dde-4fbc-9e76-1379eb9acb6b)
+![image](https://github.com/emodjeska/post-install-config/assets/143763072/6de59e53-24ad-4590-89a9-c3a91516f206)
 
-   ![image](https://github.com/emodjeska/post-install-config/assets/143763072/519112d6-cb62-4ca6-b1a4-2cf1b0a04991)
 
 Agents are allowed onto the sytem with the intent to resolve and respond to tickets. When you add an agent to the help desk, you will need to assign a primary department and give a primary role for the tickets and tasks routed to that department.
 
@@ -68,9 +69,7 @@ Admin Panel -> Agents -> Add New
 1. Jane 
 2. John
 
-![image](https://github.com/emodjeska/post-install-config/assets/143763072/bfeb48fc-be2b-4a20-b46e-e2d05ec246b0)
-
-![image](https://github.com/emodjeska/post-install-config/assets/143763072/e9fcd85c-6ef9-4bd2-aa67-4148012640b7)
+![image](https://github.com/emodjeska/post-install-config/assets/143763072/e05925bb-d059-4e97-9341-0a439a35bfdc)
 
 Users (customers) are able to create an account to log in and  create tickets, or check on the status of their ticket.
 
@@ -78,9 +77,7 @@ Agent Panel -> Users -> Add New
 1. karen
 2. Ken
 
-![image](https://github.com/emodjeska/post-install-config/assets/143763072/e6841493-1519-4b57-986e-5b69766db490)
-   
-![image](https://github.com/emodjeska/post-install-config/assets/143763072/53f292b3-05f0-4a69-ae98-37d83916e922)
+![image](https://github.com/emodjeska/post-install-config/assets/143763072/7107ed5f-72ab-4bc6-abfd-9cbbeb441be1)
 
 SLA Plans or Service level Agreements, provide a length of time in which the help desk Administator expects tickets to be closed. You are able to create any SLA plans you would like.
 
@@ -90,11 +87,9 @@ Admin Panel -> Manage -> SLA
 2. Sev- B (4 hours, 24/7)
 3. Sev-C (8 hours, business hours)
 
-![image](https://github.com/emodjeska/post-install-config/assets/143763072/305d58e9-ae5a-4cb6-9053-5ca1d8e0d9a5)
+![image](https://github.com/emodjeska/post-install-config/assets/143763072/bf2a9c78-58f8-4b75-85a2-0e26960c8344)
 
-![image](https://github.com/emodjeska/post-install-config/assets/143763072/0012b8ee-946e-41aa-9157-6e6f6308d8cb)
-
-![image](https://github.com/emodjeska/post-install-config/assets/143763072/ccaa110f-d7cd-403d-93e8-4e477b6f7910)
+![image](https://github.com/emodjeska/post-install-config/assets/143763072/8fc84ad6-02fa-43ad-b98f-41c0d675ff7d)
 
 Lastly, We will be Configuring Help Topics. Help Topics serve to streamline the expirience for the end-user to make sure the ticket has the proper assignment and prompt response to ticket. Create as many Help Topics as needed.
 
@@ -105,6 +100,5 @@ Admin Panel -> Manage -> Help Topics
 3. Equipment Request
 4. Password Reset
 
-![image](https://github.com/emodjeska/post-install-config/assets/143763072/87feb712-c259-4c81-9335-c330e6752f08)
+![image](https://github.com/emodjeska/post-install-config/assets/143763072/17ea0bef-c0d4-4721-8891-7367181729c4)
 
-![image](https://github.com/emodjeska/post-install-config/assets/143763072/7f0268da-8774-4228-b5f5-8cf684d07cf7)

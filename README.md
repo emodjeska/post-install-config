@@ -102,3 +102,4 @@ Admin Panel -> Manage -> Help Topics
 
 ![image](https://github.com/emodjeska/post-install-config/assets/143763072/17ea0bef-c0d4-4721-8891-7367181729c4)
 
+Thank you for joining me today.

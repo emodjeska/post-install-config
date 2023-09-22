@@ -87,16 +87,18 @@ Admin Panel -> Settings -> User Settings -> Check the box next to " Require regi
 
 ![image](https://github.com/emodjeska/post-install-config/assets/143763072/8e611810-0b8e-4e95-9020-93de22342668)
 
+-Configuring Agents
+
 Agents are allowed onto the sytem with the intent to resolve and respond tickets. When you add an agent to the help desk, you will need to assign a primary department and give a primary role for the tickets and tasks routed to that department.
 
 Admin Panel -> Agents -> Add New
-1. Jane 
-2. John
+1. Jane Doe
+2. John Doe
 
 ![image](https://github.com/emodjeska/post-install-config/assets/143763072/712187c0-c010-4d63-bf41-596112d23b66)
 
 
-
+-Configuring Users
 
 Users (customers) are able to create an account to log in and  create tickets, or check on the status of their ticket.
 
@@ -105,6 +107,8 @@ Agent Panel -> Users -> Add New
 2. Ken
 
 ![image](https://github.com/emodjeska/post-install-config/assets/143763072/7107ed5f-72ab-4bc6-abfd-9cbbeb441be1)
+
+-Configuring SLA
 
 SLA Plans or Service level Agreements, provide a length of time in which the help desk Administator expects tickets to be closed. You are able to create any SLA plans you would like.
 
@@ -119,6 +123,8 @@ Admin Panel -> Manage -> SLA
 ![image](https://github.com/emodjeska/post-install-config/assets/143763072/8fc84ad6-02fa-43ad-b98f-41c0d675ff7d)
 
 Lastly, We will be Configuring Help Topics. Help Topics serve to streamline the expirience for the end-user to make sure the ticket has the proper assignment and prompt response to ticket. Create as many Help Topics as needed.
+
+-Configure Help Topics
 
 Admin Panel -> Manage -> Help Topics
 

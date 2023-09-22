@@ -97,20 +97,26 @@ Admin Panel -> Agents -> Add New
 
 ![image](https://github.com/emodjeska/post-install-config/assets/143763072/712187c0-c010-4d63-bf41-596112d23b66)
 
+![image](https://github.com/emodjeska/post-install-config/assets/143763072/274cc49f-7a2b-4002-97d4-3cec58f7c62d)
+
+![image](https://github.com/emodjeska/post-install-config/assets/143763072/6362ab1b-0db0-4835-818f-76446dfa8ddf)
+
 
 -Configuring Users
 
-Users (customers) are able to create an account to log in and  create tickets, or check on the status of their ticket.
+Users (customers) are able to create an account to log in and  create tickets, or check on the status of their ticket. An email address will be associated with each user in the ticketing system.
 
 Agent Panel -> Users -> Add New
 1. karen
 2. Ken
 
-![image](https://github.com/emodjeska/post-install-config/assets/143763072/7107ed5f-72ab-4bc6-abfd-9cbbeb441be1)
+![image](https://github.com/emodjeska/post-install-config/assets/143763072/8fa15a15-2adb-4bfb-ba39-76f92786e3da)
+
+![image](https://github.com/emodjeska/post-install-config/assets/143763072/05a0007f-4e46-48ac-b9c0-300ae146a4d3)
 
 -Configuring SLA
 
-SLA Plans or Service level Agreements, provide a length of time in which the help desk Administator expects tickets to be closed. You are able to create any SLA plans you would like.
+SLA Plans or Service level Agreements, provide a length of time in which the help desk Administator expects tickets to be closed. You are able to create any kind of SLA plans you would like.
 
 Admin Panel -> Manage -> SLA
 
@@ -118,13 +124,15 @@ Admin Panel -> Manage -> SLA
 2. Sev- B (4 hours, 24/7)
 3. Sev-C (8 hours, business hours)
 
-![image](https://github.com/emodjeska/post-install-config/assets/143763072/bf2a9c78-58f8-4b75-85a2-0e26960c8344)
+![image](https://github.com/emodjeska/post-install-config/assets/143763072/a6564ea8-bbe6-4b43-be4d-6c165c65af1e)
 
-![image](https://github.com/emodjeska/post-install-config/assets/143763072/8fc84ad6-02fa-43ad-b98f-41c0d675ff7d)
+![image](https://github.com/emodjeska/post-install-config/assets/143763072/8af604f6-fae5-4b90-ae12-cb04ee349862)
 
-Lastly, We will be Configuring Help Topics. Help Topics serve to streamline the expirience for the end-user to make sure the ticket has the proper assignment and prompt response to ticket. Create as many Help Topics as needed.
+![image](https://github.com/emodjeska/post-install-config/assets/143763072/ce6342d5-26c7-4c17-9393-746893278c55)
 
 -Configure Help Topics
+
+Lastly, We will be Configuring Help Topics. Help Topics serve to streamline the expirience for the end-user to make sure the ticket has the proper assignment and prompt response to ticket. Create as many Help Topics as needed.
 
 Admin Panel -> Manage -> Help Topics
 
@@ -133,6 +141,13 @@ Admin Panel -> Manage -> Help Topics
 3. Equipment Request
 4. Password Reset
 
-![image](https://github.com/emodjeska/post-install-config/assets/143763072/17ea0bef-c0d4-4721-8891-7367181729c4)
+![image](https://github.com/emodjeska/post-install-config/assets/143763072/b303e0b5-3683-4e56-95a4-c2b76c95fa3f)
+
+![image](https://github.com/emodjeska/post-install-config/assets/143763072/2fb2bf77-1fa9-49fb-b219-423f631e1902)
+
+![image](https://github.com/emodjeska/post-install-config/assets/143763072/b941c627-ed10-4348-b881-f79abe94716a)
+
+
+Congradulations, Together we have configured OS Ticket. In Then next tutorial, we will be walking though how to use OS Ticket.
 
 Thank you for joining me today.

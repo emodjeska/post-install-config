@@ -33,50 +33,70 @@ Go ahead and log into your virtual machine in the Azure Portal. From here, login
 Here is a link to login as an Admin.
 http://localhost/osTicket/scp/login.php
 
+![image](https://github.com/emodjeska/osticket-prereqs/assets/143763072/a3c390e5-cf94-4d31-a88a-522791f523af)
+
 -Now, we will Configure Roles.
 
-Roles are the permissions granted to Agents per department that they have access to. You are able to check/ uncheck agents gevin that role in association with a department. An unlimited number of roles can be created and assigned to agents with access to various departments. 
+Roles are the permissions granted to Agents per department that they have access to. You are able to assign role permissions by checking/ uncheching them in the "Roles" tab, within a department. An unlimited number of roles can be created and assigned to agents with access to various departments. 
 
 1. Admin Panel -> Agents -> Roles
-2. Supreme Admin
+2. Name The "Role" Supreme Admin.
+3. Assign all Permissions to the "Role", so that we have an Admin that is able to do and access everything with OS Ticket.
 
-![image](https://github.com/emodjeska/post-install-config/assets/143763072/5417751d-1ff6-4eb4-bdba-29975fe41456)
+![image](https://github.com/emodjeska/post-install-config/assets/143763072/bc476e7f-691f-4d57-a3d2-37d0e13ba280)
 
+![image](https://github.com/emodjeska/post-install-config/assets/143763072/0f6df0e4-5bbd-4279-beb2-8e44d4327614)
 
+![image](https://github.com/emodjeska/post-install-config/assets/143763072/6af89808-d311-4db1-8e03-e11307ecc0d0)
+
+![image](https://github.com/emodjeska/post-install-config/assets/143763072/ab6e8015-289e-4d4c-8d5e-7d8b7b116bdb)
+
+![image](https://github.com/emodjeska/post-install-config/assets/143763072/33b0c496-b468-43a0-a0c3-8269d117e07e)
 
 For example, select add new role. Then create a "Supreme Admin Role" This role will be the overall Administrator for our example. So go to Permissions and enable "supreme Admin" to have every possible permission available.
 
--Configuring Departments.
+-Configuring Departments
 
-Tickets are routed though departments in the help desk in osTicket, so they have many setting that you can set for each department. These allow you or your comapny to create a system that works for you.
+Tickets are routed though departments in the help desk in OS Ticket, so they have many setting that you can set for each department. These allow you or your comapny to create a system that works for you.
 
 1. In the Admin Panel -> Agents-> Departments
 2. System Administators
 3. Leave the remaining fields set as default and simply look around and see what settings there are to chose from.
 
-  ![image](https://github.com/emodjeska/post-install-config/assets/143763072/3c99382a-3a93-4cfb-a0f4-2703761ea8cf)
+![image](https://github.com/emodjeska/post-install-config/assets/143763072/852c63b3-5584-47af-ad63-fd47b0ded126)
 
-![image](https://github.com/emodjeska/post-install-config/assets/143763072/47e8117d-e85d-4bf7-98c1-82c58e6fa15b)
+![image](https://github.com/emodjeska/post-install-config/assets/143763072/326513ef-88ff-4eb0-ab36-f0d31f494943)
 
+-Configuring Teams
 
--Team allow you to pull Agents and group them into projects and organize them to handle a specific issue or user via a help desk topic or ticket filter.
+-Teams allow you to pull Agents and group them into projects and organize them to handle specific issues or users via a help desk topic or ticket filter.
 
 1. Admin Panel -> Agents -> Teams
 2. Level l support
 3. Level 2 support
 
-![image](https://github.com/emodjeska/post-install-config/assets/143763072/7166f914-97e4-4088-bcde-f40f6cc82ad9)
+![image](https://github.com/emodjeska/post-install-config/assets/143763072/aac74d91-5384-4d9e-8ff8-7b4adfb71b63)
 
-![image](https://github.com/emodjeska/post-install-config/assets/143763072/6de59e53-24ad-4590-89a9-c3a91516f206)
+![image](https://github.com/emodjeska/post-install-config/assets/143763072/26c3b42e-b0d0-4c21-bd99-9a128d0c5e29)
 
+![image](https://github.com/emodjeska/post-install-config/assets/143763072/b719ef84-59fc-47ec-8562-fb2c9d4b0ca1)
 
-Agents are allowed onto the sytem with the intent to resolve and respond to tickets. When you add an agent to the help desk, you will need to assign a primary department and give a primary role for the tickets and tasks routed to that department.
+-Before we go any further, we have to configure OS Ticket so that anyone may create tickets.
+
+Admin Panel -> Settings -> User Settings -> Check the box next to " Require registration and login to create tickets"
+
+![image](https://github.com/emodjeska/post-install-config/assets/143763072/8e611810-0b8e-4e95-9020-93de22342668)
+
+Agents are allowed onto the sytem with the intent to resolve and respond tickets. When you add an agent to the help desk, you will need to assign a primary department and give a primary role for the tickets and tasks routed to that department.
 
 Admin Panel -> Agents -> Add New
 1. Jane 
 2. John
 
-![image](https://github.com/emodjeska/post-install-config/assets/143763072/e05925bb-d059-4e97-9341-0a439a35bfdc)
+![image](https://github.com/emodjeska/post-install-config/assets/143763072/712187c0-c010-4d63-bf41-596112d23b66)
+
+
+
 
 Users (customers) are able to create an account to log in and  create tickets, or check on the status of their ticket.
 

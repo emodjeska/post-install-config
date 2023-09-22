@@ -25,7 +25,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Help Topics
 
 <h2>Configuration Steps</h2>
-Go ahead and login into the osTicket Admin Panel.  When you pull up the Panel you will see tickets for admin/ helpdesk user interface (UI), that reflects the tickets that are created by the end User. 
+
+Welcome to this tutorial on the post-installation steps for OS Ticket. We will be confinguring OS Ticket as an Admin today. I am very grateful you are here with me.
+
+Go ahead and log into your virtual machine in the Azure Portal. From here, login into the osTicket Admin Panel.  When you pull up the Panel you will see tickets for admin/ helpdesk user interface (UI), that reflects the tickets that are created by the end User. 
+
+Here is a link to login as an Admin.
+http://localhost/osTicket/scp/login.php
 
 -Now, we will Configure Roles.
 
@@ -34,7 +40,8 @@ Roles are the permissions granted to Agents per department that they have access
 1. Admin Panel -> Agents -> Roles
 2. Supreme Admin
 
-![image](https://github.com/emodjeska/post-install-config/assets/143763072/fac4319b-c177-4338-af1c-8f94a00c0730)
+![image](https://github.com/emodjeska/post-install-config/assets/143763072/5417751d-1ff6-4eb4-bdba-29975fe41456)
+
 
 
 For example, select add new role. Then create a "Supreme Admin Role" This role will be the overall Administrator for our example. So go to Permissions and enable "supreme Admin" to have every possible permission available.

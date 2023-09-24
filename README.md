@@ -26,7 +26,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-Welcome to this tutorial on the post-installation steps for OS Ticket. We will be confinguring OS Ticket as an Admin today. I am very grateful you are here with me.
+Welcome to this tutorial on the post-installation steps for OS Ticket. We will be confinguring OS Ticket as an Admin today.
 
 Go ahead and log into your virtual machine in the Azure Portal. From here, login into the osTicket Admin Panel.  When you pull up the Panel you will see tickets for admin/ helpdesk user interface (UI), that reflects the tickets that are created by the end User. 
 
@@ -69,7 +69,7 @@ Tickets are routed though departments in the help desk in OS Ticket, so they hav
 
 -Configuring Teams
 
--Teams allow you to pull Agents and group them into projects and organize them to handle specific issues or users via a help desk topic or ticket filter.
+Teams allow you to pull Agents and group them into projects and organize them to handle specific issues or users via a help desk topic or ticket filter.
 
 1. Admin Panel -> Agents -> Teams
 2. Level l support
@@ -104,7 +104,7 @@ Admin Panel -> Agents -> Add New
 
 -Configuring Users
 
-Users (customers) are able to create an account to log in and  create tickets, or check on the status of their ticket. An email address will be associated with each user in the ticketing system.
+Users (customers) are able to create an account to log in and create tickets, or check on the status of their ticket. An email address will be associated with each user in the ticketing system.
 
 Agent Panel -> Users -> Add New
 1. karen
@@ -116,7 +116,7 @@ Agent Panel -> Users -> Add New
 
 -Configuring SLA
 
-SLA Plans or Service level Agreements, provide a length of time in which the help desk Administator expects tickets to be closed. You are able to create any kind of SLA plans you would like.
+SLA Plans or Service level Agreements, provide a length of time in which the help desk expects tickets to be closed. You are able to create any kind of SLA plans you would like.
 
 Admin Panel -> Manage -> SLA
 
@@ -132,7 +132,7 @@ Admin Panel -> Manage -> SLA
 
 -Configure Help Topics
 
-Lastly, We will be Configuring Help Topics. Help Topics serve to streamline the expirience for the end-user to make sure the ticket has the proper assignment and prompt response to ticket. Create as many Help Topics as needed.
+Lastly, We will be Configuring Help Topics. Help Topics serve to streamline the expirience for the end-user to make sure the ticket has the proper assignment and prompt response. Create as many Help Topics as needed.
 
 Admin Panel -> Manage -> Help Topics
 
@@ -148,6 +148,6 @@ Admin Panel -> Manage -> Help Topics
 ![image](https://github.com/emodjeska/post-install-config/assets/143763072/b941c627-ed10-4348-b881-f79abe94716a)
 
 
-Congradulations, Together we have configured OS Ticket. In Then next tutorial, we will be walking though how to use OS Ticket.
+Congradulations, together we have configured OS Ticket.
 
 Thank you for joining me today.
